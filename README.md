@@ -1,1 +1,1 @@
-#Stripe Integration with MERN App
+Stripe Integration with MERN App
